@@ -1,5 +1,3 @@
-/**
-* runs a python script
-*/
-#!/bin/bash
+#!/usr/bin/bash
 python3 $PYFILE
+
