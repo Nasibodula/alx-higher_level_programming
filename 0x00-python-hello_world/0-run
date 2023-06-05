@@ -1,2 +1,5 @@
+/**
+* runs a python script
+*/
 #!/bin/bash
 python3 $PYFILE
